@@ -13,9 +13,9 @@ from telegram.contrib.botan import Botan
 import python3pickledb as pickledb
 
 # Configuration
-BOTNAME = 'usernameofbot'
-TOKEN = 'TOKEN'
-BOTAN_TOKEN = 'BOTANTOKEN'
+BOTNAME = 'bilgilendirme_bot'
+TOKEN = '364130841:AAEbUUbyNnnzGRFJNNQn3m7Es5ndXHjm_V4'
+BOTAN_TOKEN = '364130841:AAEqlN50fGNw2ZA6GMB7IfMlf5oFl7QpJiA'
 
 help_text = 'Welcomes everyone that enters a group chat that this bot is a ' \
             'part of. By default, only the person who invited the bot into ' \
